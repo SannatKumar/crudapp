@@ -1,3 +1,8 @@
+This is a simple crud app and the demo cane be seen here.
+
+Demo Link: https://sannatkumar.github.io/crudapp/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
